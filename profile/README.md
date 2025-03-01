@@ -39,7 +39,7 @@ We are a company developing the next generation of privacy-centric, AI-native pr
 
 - Alfheimr/Alfmir: Financial Tools
 
-- Bastion: IDS
+- Bastion: Cybersecurity Tools & IDS
 
 - Orphaned Projects
   - [cliget_etherscan](https://github.com/alfe-ai/cliget_etherscan)
