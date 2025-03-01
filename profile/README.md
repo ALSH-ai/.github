@@ -5,6 +5,10 @@
 
 We are a company developing the next generation of privacy-centric, AI-native productivity tools.
 
+---
+
+#### Primary Projects:
+
 - [Alfe AI](https://github.com/alfe-ai/alfe): Software Development Tools  
   - [Alfe AI / Primary Dev](https://github.com/alfe-ai/alfe-dev)  
   - [Alfe AI / Beta Landing Site](https://github.com/alfe-ai/alfe-lander-beta.alfe.sh)  
@@ -19,6 +23,10 @@ We are a company developing the next generation of privacy-centric, AI-native pr
   - [Faybian OS / scripts](https://github.com/alfe-ai/faybian-scripts)  
   - Faybian OS / Fayarc
 
+---
+
+#### Other Projects:
+
 - Aurora: Project & Task Management
 
 - Tumultuous: Team & Group Communications
@@ -30,9 +38,9 @@ We are a company developing the next generation of privacy-centric, AI-native pr
 
 ---
 
-<img src="https://avatars.githubusercontent.com/u/194872969?s=200&v=4" alt="Alfe AI: A Privacy-first AI Platform" width="100">
+<img src="https://avatars.githubusercontent.com/u/194872969?s=200&v=4" alt="Alfe AI: Privacy-first AI" width="100">
 
-[**Alfe AI**: A Privacy-first AI Platform](https://alfe.sh)  
+[**Alfe AI**: Privacy-first AI](https://alfe.sh)  
 
 **Beta**: https://alfe.sh/beta  
 
