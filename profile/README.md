@@ -3,13 +3,13 @@
 
 We are a company developing the next generation of AI-native productivity tools.
 
-- [Alfe AI](https://github.com/alfe-ai)  
-  - [Alfe AI (Primary FOSS Release)](https://github.com/alfe-ai/alfe)  
+- Alfe AI
+  - [Alfe AI](https://github.com/alfe-ai/alfe)  
     - [Alfe AI (Primary Dev)](https://github.com/alfe-ai/alfe-dev)  
     - [Alfe AI (Beta Landing Site)](https://github.com/alfe-ai/alfe-lander-beta.alfe.sh)  
     - [Alfe AI ('www' Landing Site)](https://github.com/alfe-ai/alfe-lander-www.alfe.sh)  
   
-  - [Faybian OS (Primary FOSS Release)](https://github.com/alfe-ai/faybian)  
+  - [Faybian OS](https://github.com/alfe-ai/faybian)  
     - [Faybian OS (faybian-scripts)](https://github.com/alfe-ai/faybian-scripts)  
   
   - [Logistica](https://github.com/alfe-ai/logistica)  
