@@ -43,7 +43,7 @@ We are a company developing the next generation of privacy-centric, AI-native pr
 - Tumultuous: Team & Group Communications
   - Veritas: The server for Tumultuous.
 
-- Alfheimr/Alfmir: Financial Tools
+- Alfheimr/Alfmir: Financial Tools / Accounting Tools
   - [cliget_etherscan](https://github.com/alfe-ai/cliget_etherscan)
 
 - Bastion: Cybersecurity Tools & IDS
