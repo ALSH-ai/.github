@@ -19,6 +19,7 @@ We are a company developing the next generation of privacy-centric, AI-native pr
   - [Logistica / BCE Tracking](https://github.com/alfe-ai/logistica-bce_tracking)
   - [Logistica / Documents](https://github.com/alfe-ai/logistica-documents)
   - Logistica / VisionPipeline: Print on Demand Tools
+  - Logistica / SupportBot: AI Customer support for online stores, eBay, Amazon, etc
 
 - [Faybian OS](https://github.com/alfe-ai/faybian): Linux & Android derived Operating System  
   - [Faybian OS / scripts](https://github.com/alfe-ai/faybian-scripts)  
