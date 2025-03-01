@@ -1,9 +1,9 @@
 <!-- File_Rel_Path: 'alfe-ai/.github/profile/README.md' -->
 <!-- File_Type: '.md' -->
 # Alfe AI
-### Privacy-first, AI-native, Productivity Tools
+### Privacy-first, AI-native Productivity Tools
 
-We are a company developing the next generation of privacy-centric, AI-native, productivity tools.
+We are a company developing the next generation of privacy-centric, AI-native productivity tools.
 
 - [Alfe AI](https://github.com/alfe-ai/alfe): Software Development Tools  
   - [Alfe AI / Primary Dev](https://github.com/alfe-ai/alfe-dev)  
