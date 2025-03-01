@@ -48,6 +48,8 @@ We are a company developing the next generation of privacy-centric, AI-native pr
 
 - Bastion: Cybersecurity Tools & IDS
 
+- FayRa: eCommerce Store
+
 <!-- - Orphaned Projects -->
 
 ---
