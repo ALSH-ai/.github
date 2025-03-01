@@ -12,6 +12,7 @@ We are a company developing the next generation of privacy-centric, AI-native pr
 - [Alfe AI](https://github.com/alfe-ai/alfe): Software Development Tools  
   - [Alfe AI / Primary Dev](https://github.com/alfe-ai/alfe-dev): (OldUI)
     - [Alfe AI / Primary Dev / VMs](https://github.com/alfe-ai/alfe-dev-vms)
+  - [Alfe AI / Agent Instructions](https://github.com/alfe-ai/alfe-agent_instructions)
   - Alfe AI / misc pipes
   - [Alfe AI / Beta Landing Site](https://github.com/alfe-ai/alfe-lander-beta.alfe.sh)  
   - [Alfe AI / 'www' Landing Site](https://github.com/alfe-ai/alfe-lander-www.alfe.sh)
