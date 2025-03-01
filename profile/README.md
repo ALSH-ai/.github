@@ -21,6 +21,7 @@ We are a company developing the next generation of privacy-centric, AI-native pr
 
 - [Faybian OS](https://github.com/alfe-ai/faybian): Linux & Android derived Operating System  
   - [Faybian OS / scripts](https://github.com/alfe-ai/faybian-scripts)  
+  - [Faybian OS / PuppetCore](https://github.com/alfe-ai/faybian-PuppetCore)
   - Faybian OS / Fayarc
 
 ---
@@ -35,7 +36,6 @@ We are a company developing the next generation of privacy-centric, AI-native pr
   - Veritas: The server for Tumultuous.
 
 - Orphaned Projects
-  - [PuppetCore](https://github.com/alfe-ai/PuppetCore)
   - [cliget_etherscan](https://github.com/alfe-ai/cliget_etherscan)
 
 ---
