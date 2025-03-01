@@ -14,7 +14,7 @@ We are a company developing the next generation of privacy-centric AI-native pro
   - [Logistica / BCE Tracking](https://github.com/alfe-ai/logistica-bce_tracking)
   - [Logistica / Documents](https://github.com/alfe-ai/logistica-documents)
 
-- [Faybian OS](https://github.com/alfe-ai/faybian): Linux & Android  
+- [Faybian OS](https://github.com/alfe-ai/faybian): Linux & Android derived Operating System  
   - [Faybian OS / scripts](https://github.com/alfe-ai/faybian-scripts)  
 
 - Tumultuous: Team & Group Communications
