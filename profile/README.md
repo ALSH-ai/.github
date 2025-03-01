@@ -40,11 +40,11 @@ We are a company developing the next generation of privacy-centric, AI-native pr
   - Veritas: The server for Tumultuous.
 
 - Alfheimr/Alfmir: Financial Tools
+  - [cliget_etherscan](https://github.com/alfe-ai/cliget_etherscan)
 
 - Bastion: Cybersecurity Tools & IDS
 
-- Orphaned Projects
-  - [cliget_etherscan](https://github.com/alfe-ai/cliget_etherscan)
+<!-- - Orphaned Projects -->
 
 ---
 
