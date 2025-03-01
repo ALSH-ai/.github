@@ -5,8 +5,7 @@
 
 We are a company developing the next generation of AI-native productivity tools.
 
-- Alfe AI  
-- Privacy-first and AI-native tools  
+- Alfe AI: All Software has Privacy-first and AI-native focus.  
   - [Alfe AI](https://github.com/alfe-ai/alfe): Software Development Tools  
     - [Alfe AI / Primary Dev](https://github.com/alfe-ai/alfe-dev)  
     - [Alfe AI / Beta Landing Site](https://github.com/alfe-ai/alfe-lander-beta.alfe.sh)  
