@@ -29,6 +29,8 @@ We are a company developing the next generation of privacy-centric, AI-native pr
 
 - Aurora: Project & Task Management
 
+- Auth3: Web3-native SSO Authentication
+
 - Tumultuous: Team & Group Communications
   - Veritas: The server for Tumultuous.
 
