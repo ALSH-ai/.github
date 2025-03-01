@@ -1,6 +1,7 @@
 # Alfe AI
+### Privacy-first, AI Productivity Tools
 
-We are a company developing the next generation of AI-integrated productivity tools.
+We are a company developing the next generation of AI-native productivity tools.
 
 - [Alfe AI](https://github.com/alfe-ai)  
   - [Alfe AI (Primary FOSS Release)](https://github.com/alfe-ai/alfe)  
