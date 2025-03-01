@@ -1,4 +1,7 @@
-# Alfe AI
+# Alfe AI (Company)
+
+
+# Alfe AI (Product)
 
 A Privacy-first AI Platform
 
