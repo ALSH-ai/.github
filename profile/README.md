@@ -1,4 +1,6 @@
-# Alfe AI (Company)
+# Alfe AI
+
+We are a company developing the next generation of AI-integrated productivity tools.
 
 - [Alfe AI](https://github.com/alfe-ai)  
   - [Alfe AI (Primary FOSS Release)](https://github.com/alfe-ai/alfe)  
