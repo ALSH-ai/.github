@@ -17,6 +17,7 @@ We are a company developing the next generation of privacy-centric, AI-native pr
   - Alfe AI / AlfeWeb IDE
   - Alfe AI / ImageAnalysis
   - Alfe AI / ImageGen
+  - Alfe AI / API
  
 - [Logistica](https://github.com/alfe-ai/logistica): eCommerce & Store Management  
   - [Logistica / BCE Tracking](https://github.com/alfe-ai/logistica-bce_tracking)
