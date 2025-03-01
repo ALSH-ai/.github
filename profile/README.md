@@ -13,6 +13,8 @@ We are a company developing the next generation of AI-native productivity tools.
     - [Faybian OS (faybian-scripts)](https://github.com/alfe-ai/faybian-scripts)  
   
   - [Logistica](https://github.com/alfe-ai/logistica)  
+    - [Logistica / BCE Tracking](https://github.com/alfe-ai/logistica-bce_tracking)
+    - [Logistica / Documents](https://github.com/alfe-ai/logistica-documents)
 
 ---
 
