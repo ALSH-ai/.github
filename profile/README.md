@@ -15,8 +15,7 @@ We are a company developing the next generation of privacy-centric, AI-native pr
   - [Alfe AI / 'www' Landing Site](https://github.com/alfe-ai/alfe-lander-www.alfe.sh)
   - Alfe AI / AlSH: Alfe AI Shell
   - Alfe AI / AlfeWeb IDE: Including Git Hosting and (NewUI)
-  - Alfe AI / ImageAnalysis
-  - Alfe AI / ImageGen
+  - Alfe AI / ImageTools (Both ImageAnalysis and ImageGen)
   - Alfe AI / API
  
 - [Logistica](https://github.com/alfe-ai/logistica): eCommerce & Store Management  
