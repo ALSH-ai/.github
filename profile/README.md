@@ -22,8 +22,6 @@ We are a company developing the next generation of AI-native productivity tools.
 
 **Beta**: https://alfe.sh/beta  
 
-[GitHub](https://github.com/alfe-ai)
-
 [Contact](mailto:alfe@lochner.tech)
 
 ---
