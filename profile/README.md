@@ -14,6 +14,8 @@ We are a company developing the next generation of privacy-centric, AI-native pr
   - [Alfe AI / Beta Landing Site](https://github.com/alfe-ai/alfe-lander-beta.alfe.sh)  
   - [Alfe AI / 'www' Landing Site](https://github.com/alfe-ai/alfe-lander-www.alfe.sh)
   - Alfe AI / AlSH: Alfe AI Shell
+  - Alfe AI / ImageAnalysis
+  - Alfe AI / ImageGen
     
 - [Logistica](https://github.com/alfe-ai/logistica): eCommerce & Store Management  
   - [Logistica / BCE Tracking](https://github.com/alfe-ai/logistica-bce_tracking)
