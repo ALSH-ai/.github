@@ -27,3 +27,6 @@ We are a company developing the next generation of AI-native productivity tools.
 [Contact](mailto:alfe@lochner.tech)
 
 ---
+
+[Alfe AI](https://alfe.sh) by [Lochner Tech](https://lochner.tech)  
+https://lochner.tech  
