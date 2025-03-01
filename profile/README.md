@@ -1,8 +1,7 @@
 # Alfe AI (Company)
 
 - [Alfe AI](https://github.com/alfe-ai)  
-  - [alfe.sh](https://www.notion.so/alfe-sh-1a82327c8e5680f08585cc6717c48e3b?pvs=21)  
-    - **Organization**: DBA: Alfe AI  
+  - [alfe.sh](https://github.com/alfe-ai)  
 
 - [Alfe AI (Primary FOSS Release)](https://github.com/alfe-ai/alfe)  
   - [Alfe AI (Primary Dev)](https://github.com/alfe-ai/alfe-dev)  
