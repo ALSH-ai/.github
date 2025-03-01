@@ -18,6 +18,7 @@ We are a company developing the next generation of privacy-centric, AI-native pr
   - [Faybian OS / scripts](https://github.com/alfe-ai/faybian-scripts)  
 
 - Tumultuous: Team & Group Communications
+  - Veritas: The server for Tumultuous.
 
 - Orphaned Projects
   - [PuppetCore](https://github.com/alfe-ai/PuppetCore)
