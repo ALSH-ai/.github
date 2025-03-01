@@ -16,6 +16,9 @@ We are a company developing the next generation of privacy-centric, AI-native pr
 
 - [Faybian OS](https://github.com/alfe-ai/faybian): Linux & Android derived Operating System  
   - [Faybian OS / scripts](https://github.com/alfe-ai/faybian-scripts)  
+  - Faybian OS / Fayarc
+
+- Aurora: Project & Task Management
 
 - Tumultuous: Team & Group Communications
   - Veritas: The server for Tumultuous.
