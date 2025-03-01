@@ -42,7 +42,7 @@ We are a company developing the next generation of privacy-centric, AI-native pr
 - Auth3: Web3-native SSO Authentication
 - Tumultuous: Team & Group Communications
   - Veritas: The server for Tumultuous.
-- Alfheimr/Alfmir: Financial Tools / Accounting Tools
+- Alfheimr/Alfmir: Financial Tools / Accounting Tools / Algotrading
   - [cliget_etherscan](https://github.com/alfe-ai/finance-cliget_etherscan)
   - [ChainScan](https://github.com/alfe-ai/finance-ChainScan)
 - Bastion: Cybersecurity Tools & IDS
