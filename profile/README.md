@@ -11,7 +11,7 @@ We are a company developing the next generation of AI-native productivity tools.
     - [Alfe AI / Beta Landing Site](https://github.com/alfe-ai/alfe-lander-beta.alfe.sh)  
     - [Alfe AI / 'www' Landing Site](https://github.com/alfe-ai/alfe-lander-www.alfe.sh)
       
-  - [Logistica](https://github.com/alfe-ai/logistica): AI-Native eCommerce Management  
+  - [Logistica](https://github.com/alfe-ai/logistica): AI-Native eCommerce and Store Management  
     - [Logistica / BCE Tracking](https://github.com/alfe-ai/logistica-bce_tracking)
     - [Logistica / Documents](https://github.com/alfe-ai/logistica-documents)
   
