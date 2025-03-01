@@ -37,21 +37,15 @@ We are a company developing the next generation of privacy-centric, AI-native pr
 #### Other Projects:
 
 - Aurora: Project & Task Management
-
+  - Aurora / TLG
 - SidCICD: Intelligent CI/CD Pipeline
-
 - Auth3: Web3-native SSO Authentication
-
 - Tumultuous: Team & Group Communications
   - Veritas: The server for Tumultuous.
-
 - Alfheimr/Alfmir: Financial Tools / Accounting Tools
   - [cliget_etherscan](https://github.com/alfe-ai/cliget_etherscan)
-
 - Bastion: Cybersecurity Tools & IDS
-
 - FayRa: eCommerce Store
-
 <!-- - Orphaned Projects -->
 
 ---
