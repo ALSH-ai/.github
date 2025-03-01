@@ -16,10 +16,6 @@ We are a company developing the next generation of AI-native productivity tools.
 
 ---
 
-# Alfe AI (Product)
-
-A Privacy-first AI Platform
-
 <img src="https://avatars.githubusercontent.com/u/194872969?s=200&v=4" alt="Alfe AI: A Privacy-first AI Platform" width="100">
 
 [**Alfe AI**: A Privacy-first AI Platform](https://alfe.sh)  
