@@ -16,6 +16,8 @@ We are a company developing the next generation of AI-native productivity tools.
     - [Logistica / BCE Tracking](https://github.com/alfe-ai/logistica-bce_tracking)
     - [Logistica / Documents](https://github.com/alfe-ai/logistica-documents)
 
+  - [PuppetCore](https://github.com/alfe-ai/PuppetCore)
+
 ---
 
 <img src="https://avatars.githubusercontent.com/u/194872969?s=200&v=4" alt="Alfe AI: A Privacy-first AI Platform" width="100">
