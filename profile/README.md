@@ -46,7 +46,7 @@ We are a company developing the next generation of privacy-centric, AI-native pr
   - [cliget_etherscan](https://github.com/alfe-ai/finance-cliget_etherscan)
   - [ChainScan](https://github.com/alfe-ai/finance-ChainScan)
 - Bastion: Cybersecurity Tools & IDS
-- FayRa: eCommerce Store
+- [FayRa](https://www.ebay.com/str/fayralogistics): eCommerce Store
 <!-- - Orphaned Projects -->
 
 ---
