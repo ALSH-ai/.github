@@ -10,17 +10,18 @@ We are a company developing the next generation of privacy-centric, AI-native pr
 #### Primary Projects:
 
 - [Alfe AI](https://github.com/alfe-ai/alfe): Software Development Tools  
-  - [Alfe AI / Primary Dev](https://github.com/alfe-ai/alfe-dev): (OldUI)
+  <!-- - [Alfe AI / Primary Dev](https://github.com/alfe-ai/alfe-dev): (OldUI) -->
     - [Alfe AI / Primary Dev / VMs](https://github.com/alfe-ai/alfe-dev-vms)
   - [Alfe AI / Agent Instructions](https://github.com/alfe-ai/alfe-agent_instructions)
-  - Alfe AI / misc pipes
+  <!-- - Alfe AI / misc pipes 
   - [Alfe AI / Beta Landing Site](https://github.com/alfe-ai/alfe-lander-beta.alfe.sh)  
   - [Alfe AI / 'www' Landing Site](https://github.com/alfe-ai/alfe-lander-www.alfe.sh)
   - Alfe AI / AlSH: Alfe AI Shell
   - Alfe AI / AlfeWeb IDE: Including Git Hosting and (NewUI)
   - Alfe AI / ImageTools (Both ImageAnalysis and ImageGen)
-  - Alfe AI / API
- 
+  - Alfe AI / API -->
+
+<!--
 - [Logistica](https://github.com/alfe-ai/logistica): eCommerce & Store Management  
   - [Logistica / BCE Tracking](https://github.com/alfe-ai/logistica-bce_tracking)
   - [Logistica / Documents](https://github.com/alfe-ai/logistica-documents)
@@ -31,7 +32,9 @@ We are a company developing the next generation of privacy-centric, AI-native pr
   - [Faybian OS / scripts](https://github.com/alfe-ai/faybian-scripts)  
   - [Faybian OS / PuppetCore](https://github.com/alfe-ai/faybian-PuppetCore)
   - Faybian OS / Fayarc
+-->
 
+<!-- 
 ---
 
 #### Other Projects:
@@ -47,7 +50,9 @@ We are a company developing the next generation of privacy-centric, AI-native pr
   - [ChainScan](https://github.com/alfe-ai/finance-ChainScan)
 - Bastion: Cybersecurity Tools & IDS
 - [FayRa](https://www.ebay.com/str/fayralogistics): eCommerce Store
+-->
 <!-- - Orphaned Projects -->
+
 
 ---
 
