@@ -70,5 +70,4 @@ DBA: Alfe AI
 
 _by [Lochner Tech](https://lochner.tech)_  
 https://github.com/lochner-technology  
-https://lochner.tech  
 
