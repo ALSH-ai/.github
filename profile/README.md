@@ -66,7 +66,9 @@ We are a company developing the next generation of privacy-centric, AI-native pr
 
 ---
 
-[Alfe AI](https://alfe.sh) by [Lochner Tech](https://lochner.tech)  
+DBA: Alfe AI
+
+_by [Lochner Tech](https://lochner.tech)_  
+https://github.com/lochner-technology  
 https://lochner.tech  
 
-DBA: Alfe AI
