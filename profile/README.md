@@ -9,7 +9,7 @@ We are a company developing the next generation of privacy-centric, AI-native pr
 
 #### Primary Projects:
 
-- [Alfe AI](https://github.com/alfe-ai/alfe): Software Development Tools  
+- [Alfe AI](https://github.com/alfe-ai/Sterling): Software Development Tools  
   <!-- - [Alfe AI / Primary Dev](https://github.com/alfe-ai/alfe-dev): (OldUI) -->
     - [Alfe AI / Primary Dev / VMs](https://github.com/alfe-ai/alfe-dev-vms)
   - [Alfe AI / Agent Instructions](https://github.com/alfe-ai/alfe-agent_instructions)
