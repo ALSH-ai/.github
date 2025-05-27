@@ -11,7 +11,7 @@ We are a company developing the next generation of privacy-centric, AI-native pr
 
 ## Alfe AI: Software Development and Image Design Platform  
   - [Beta (2.0) (Image Design)](https://github.com/alfe-ai/alfe-ai-2.0_beta)
-  - [Beta Pre-release (0.44.50) (Software Development)](https://github.com/alfe-ai/Sterling)
+  - [Beta Pre-release (0.4x+) (Software Development)](https://github.com/alfe-ai/Sterling)
     
   <!-- - [Alfe AI / Primary Dev](https://github.com/alfe-ai/alfe-dev): (OldUI) -->
   
