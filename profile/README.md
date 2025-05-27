@@ -7,7 +7,7 @@ We are a company developing the next generation of privacy-centric, AI-native pr
 
 ---
 
-#### Primary Projects:
+<!-- #### Primary Projects: -->
 
 ## Alfe AI: Software Development and Image Design Platform  
   - [Beta Pre-release (0.44.50) (Sterling)](https://github.com/alfe-ai/Sterling)
