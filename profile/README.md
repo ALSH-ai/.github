@@ -3,7 +3,7 @@
 # Alfe AI
 ### Privacy-first, AI-native Productivity Tools
 
-Developing privacy-centric, AI-native productivity tools.
+<!-- Developing privacy-centric, AI-native productivity tools. -->
 
 ---
 
