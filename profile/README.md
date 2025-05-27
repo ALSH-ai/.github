@@ -10,7 +10,7 @@ We are a company developing the next generation of privacy-centric, AI-native pr
 #### Primary Projects:
 
 - Alfe AI: Software Development and Design Platform  
-  - [Beta Prerelease (Sterling)](https://github.com/alfe-ai/Sterling)
+  - [Beta Pre-release (Sterling)](https://github.com/alfe-ai/Sterling)
   - [Beta (2.0)](https://github.com/alfe-ai/alfe-ai-2.0_beta)
   <!-- - [Alfe AI / Primary Dev](https://github.com/alfe-ai/alfe-dev): (OldUI) -->
     <!-- - [Alfe AI / Primary Dev / VMs](https://github.com/alfe-ai/alfe-dev-vms) -->
