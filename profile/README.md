@@ -61,7 +61,8 @@
 
 ---
 
-<img src="https://avatars.githubusercontent.com/u/194872969?s=200&v=4" alt="Alfe AI: Privacy-first AI" width="100">
+![image](https://github.com/user-attachments/assets/98b2d676-f3c3-44f6-8e1a-cd8eaaf45c05)
+
 
 [**Alfe AI**: Privacy-first AI](https://alfe.sh)  
 
