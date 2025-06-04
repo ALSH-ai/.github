@@ -61,7 +61,6 @@
 
 ---
 
-![image](https://github.com/user-attachments/assets/98b2d676-f3c3-44f6-8e1a-cd8eaaf45c05)
 
 
 [**Alfe AI**: Privacy-first AI](https://alfe.sh)  
