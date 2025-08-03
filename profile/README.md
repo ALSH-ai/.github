@@ -10,8 +10,8 @@
 <!-- #### Primary Projects: -->
 
 ## Alfe AI: Software Development and Image Design Platform  
-  - [Beta (2.30) (Image Design)](https://github.com/alfe-ai/alfe-ai-Aurelix)
-  - [Beta Pre-release (0.4x+) (Software Development)](https://github.com/alfe-ai/Sterling)
+  - [Beta (2.30) (Image Design)](https://github.com/alfe-ai/alfe-ai)
+  - [Beta Pre-release (0.4x+) (Software Development)](https://github.com/alfe-ai/Sterling_MIT)
     
   <!-- - [Alfe AI / Primary Dev](https://github.com/alfe-ai/alfe-dev): (OldUI) -->
   
