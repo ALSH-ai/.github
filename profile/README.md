@@ -65,7 +65,7 @@
 
 [**Alfe AI**: Privacy-first AI](https://alfe.sh)  
 
-**Beta**: https://alfe.sh/beta  
+**Beta**: https://alfe.sh
 
 [Contact](mailto:support@alfe.sh)
 
