@@ -63,7 +63,7 @@
 
 
 
-[**Alfe AI**: Privacy-first AI](https://alfe.sh)  
+[**Alfe AI**](https://alfe.sh)  
 
 **Beta**: https://alfe.sh
 
