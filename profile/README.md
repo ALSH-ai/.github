@@ -1,7 +1,7 @@
 <!-- File_Rel_Path: 'alfe-ai/.github/profile/README.md' -->
 <!-- File_Type: '.md' -->
 # Alfe AI
-### Privacy-first, AI-native Productivity Tools
+### AI-native Productivity Tools
 
 <!-- Developing privacy-centric, AI-native productivity tools. -->
 
