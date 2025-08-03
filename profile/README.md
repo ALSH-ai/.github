@@ -67,7 +67,7 @@
 
 **Beta**: https://alfe.sh/beta  
 
-[Contact](mailto:alfe@lochner.tech)
+[Contact](mailto:support@alfe.sh)
 
 ---
 
