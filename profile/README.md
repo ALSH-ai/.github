@@ -10,8 +10,8 @@
 <!-- #### Primary Projects: -->
 
 ## Alfe AI: Software Development and Image Design Platform  
-  - [Beta (2.30) (Image Design)](https://github.com/alfe-ai/alfe-ai)
-  - [Beta Pre-release (0.4x+) (Software Development)](https://github.com/alfe-ai/Sterling_MIT)
+  - [Beta](https://github.com/alfe-ai/alfe-ai)
+  - [Beta Pre-release (Software Development)](https://github.com/alfe-ai/Sterling)
     
   <!-- - [Alfe AI / Primary Dev](https://github.com/alfe-ai/alfe-dev): (OldUI) -->
   
@@ -66,8 +66,6 @@
 [**Alfe AI**](https://alfe.sh)  
 
 **Beta**: https://alfe.sh
-
-[Contact](mailto:support@alfe.sh)
 
 ---
 
