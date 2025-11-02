@@ -10,7 +10,9 @@
   - [Beta Pre-release (Software Development)](https://github.com/alfe-ai/Sterling)
 
   Alfe AI has two main components,
+  
   Frontend, Image Design, Software Development
+  
   Software Development Backend 
 
 ---
