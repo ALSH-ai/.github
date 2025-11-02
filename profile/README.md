@@ -3,61 +3,15 @@
 # Alfe AI
 ### AI-Native Productivity Tools
 
-<!-- Developing privacy-centric, AI-native productivity tools. -->
-
 ---
-
-<!-- #### Primary Projects: -->
 
 ## Alfe AI: Software Development and Image Design Platform  
   - [Beta](https://github.com/alfe-ai/alfe-ai)
   - [Beta Pre-release (Software Development)](https://github.com/alfe-ai/Sterling)
-    
-  <!-- - [Alfe AI / Primary Dev](https://github.com/alfe-ai/alfe-dev): (OldUI) -->
-  
-  <!-- - [Alfe AI / Primary Dev / VMs](https://github.com/alfe-ai/alfe-dev-vms) -->
-    
-  <!-- - [Alfe AI / Agent Instructions](https://github.com/alfe-ai/alfe-agent_instructions) -->
-  <!-- - Alfe AI / misc pipes 
-  - [Alfe AI / Beta Landing Site](https://github.com/alfe-ai/alfe-lander-beta.alfe.sh)  
-  - [Alfe AI / 'www' Landing Site](https://github.com/alfe-ai/alfe-lander-www.alfe.sh)
-  - Alfe AI / AlSH: Alfe AI Shell
-  - Alfe AI / AlfeWeb IDE: Including Git Hosting and (NewUI)
-  - Alfe AI / ImageTools (Both ImageAnalysis and ImageGen)
-  - Alfe AI / API -->
 
-<!--
-- [Logistica](https://github.com/alfe-ai/logistica): eCommerce & Store Management  
-  - [Logistica / BCE Tracking](https://github.com/alfe-ai/logistica-bce_tracking)
-  - [Logistica / Documents](https://github.com/alfe-ai/logistica-documents)
-  - Logistica / VisionPipeline: Print on Demand Tools
-  - Logistica / SupportBot: AI Customer support for online stores, eBay, Amazon, etc
-
-- [Faybian OS](https://github.com/alfe-ai/faybian): Linux & Android derived Operating System  
-  - [Faybian OS / scripts](https://github.com/alfe-ai/faybian-scripts)  
-  - [Faybian OS / PuppetCore](https://github.com/alfe-ai/faybian-PuppetCore)
-  - Faybian OS / Fayarc
--->
-
-<!-- 
----
-
-#### Other Projects:
-
-- Aurora: Project & Task Management
-  - Aurora / TLG
-- SidCICD: Intelligent CI/CD Pipeline
-- Auth3: Web3-native SSO Authentication
-- Tumultuous: Team & Group Communications
-  - Veritas: The server for Tumultuous.
-- Alfheimr/Alfmir: Financial Tools / Accounting Tools / Algotrading
-  - [cliget_etherscan](https://github.com/alfe-ai/finance-cliget_etherscan)
-  - [ChainScan](https://github.com/alfe-ai/finance-ChainScan)
-- Bastion: Cybersecurity Tools & IDS
-- [FayRa](https://www.ebay.com/str/fayralogistics): eCommerce Store
--->
-<!-- - Orphaned Projects -->
-
+  Alfe AI has two main components,
+  Frontend, Image Design, Software Development
+  Software Development Backend 
 
 ---
 
