@@ -25,7 +25,6 @@
 
 ---
 
-<!--DBA: -->
 Alfe AI
 
 _by [Lochner Tech](https://lochner.tech)_  
