@@ -8,6 +8,7 @@
 ## AI Software Development, Chat, and Image Design
 **Software Development and Project Management**:
   - https://github.com/alfe-ai/AlfeCode
+  
 **Chat and Image Design**:
   - https://github.com/alfe-ai/AlfeChat
 
