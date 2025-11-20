@@ -6,7 +6,7 @@
 ---
 
 ## AI Software Development, Chat, and Image Design  
-### Privacy-First, FLOSS, Self-hostable
+### Free, Libre, Self-hostable
 **Software Development and Project Management**: - https://github.com/alfe-ai/AlfeCode  
   
 **Chat and Image Design**: - https://github.com/alfe-ai/AlfeChat  
