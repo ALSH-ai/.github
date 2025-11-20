@@ -7,9 +7,10 @@
 
 ## AI Software Development, Chat, and Image Design  
 ### Free, Libre, Self-hostable
-**Software Development and Project Management**: - https://github.com/alfe-ai/AlfeCode  
-  
-**Chat and Image Design**: - https://github.com/alfe-ai/AlfeChat  
+**Software Development and Project Management**
+**Chat and Image Design**
+
+https://github.com/alfe-ai/alfe-ai
 
 ---
 
