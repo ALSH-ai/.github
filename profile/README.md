@@ -32,8 +32,6 @@ https://alfe.sh
 
 <img width="603" height="1178" alt="image" src="https://github.com/user-attachments/assets/0493dece-3756-4ece-9a9f-a8f05df387e3" />
 
-<img width="1281" height="1125" alt="image" src="https://github.com/user-attachments/assets/04b6e210-da6f-49d0-ad38-aaa3d29fb731" />
-
 ---
 
 [**Alfe AI**](https://alfe.sh)  
