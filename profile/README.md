@@ -10,7 +10,11 @@
 **Software Development and Project Management**  
 **Chat and Image Design**
 
+### [View the Code](https://github.com/alfe-ai/alfe-ai)
+
 https://github.com/alfe-ai/alfe-ai
+
+### [Try the App](https://alfe.sh)
 
 https://alfe.sh
 
