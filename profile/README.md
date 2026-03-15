@@ -14,9 +14,9 @@
 
 https://github.com/alfe-ai/alfe-ai
 
-### [Try the App](https://alfe.sh)
+### [Try the App](https://alfe.bot)
 
-https://alfe.sh
+https://alfe.bot
 
 <img width="1781" height="1509" alt="image" src="https://github.com/user-attachments/assets/d5a7a336-95c6-4603-b411-a62498d21fc4" />
 
