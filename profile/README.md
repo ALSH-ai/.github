@@ -10,13 +10,13 @@
 **Software Development and Project Management**  
 **Chat and Image Design**
 
-### [View the Code](https://github.com/alfe-ai/alfe-ai)
+### [View the Code](https://github.com/AlSH-ai/AlSH.ai)
 
-https://github.com/alfe-ai/alfe-ai
+https://github.com/AlSH-ai/AlSH.ai
 
-### [Try the App](https://alfe.bot)
+### [Try the App](https://alsh.ai)
 
-https://alfe.bot
+https://alsh.ai
 
 <img width="1781" height="1509" alt="image" src="https://github.com/user-attachments/assets/d5a7a336-95c6-4603-b411-a62498d21fc4" />
 
