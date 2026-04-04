@@ -1,6 +1,6 @@
 <!-- File_Rel_Path: 'alfe-ai/.github/profile/README.md' -->
 <!-- File_Type: '.md' -->
-# Alfe AI
+# AlSH.ai
 <!-- ### AI-Native Productivity Tools -->
 
 ---
@@ -38,13 +38,13 @@ https://alfe.bot
 
 ---
 
-[**Alfe AI**](https://alfe.sh)  
+[**AlSH.ai**](https://alsh.ai)  
 
-https://alfe.sh
+https://alsh.ai
 
 ---
 
-Alfe AI
+AlSH.ai
 
 _by [Lochner Tech](https://lochner.tech)_  
 https://github.com/lochner-technology  
