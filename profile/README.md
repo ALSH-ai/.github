@@ -18,7 +18,7 @@ https://github.com/AlSH-ai/AlSH.ai
 
 https://alsh.ai
 
-<img width="1781" height="1509" alt="image" src="https://github.com/user-attachments/assets/d5a7a336-95c6-4603-b411-a62498d21fc4" />
+<img width="1554" height="1507" alt="image" src="https://github.com/user-attachments/assets/04385cea-621b-4675-8e2e-9f75514aafcf" />
 
 <img width="1687" height="1073" alt="image" src="https://github.com/user-attachments/assets/b03c20cd-5735-4044-9087-ed7b4eec386a" />
 
