@@ -1,6 +1,6 @@
 <!-- File_Rel_Path: 'alfe-ai/.github/profile/README.md' -->
 <!-- File_Type: '.md' -->
-# AlSH.ai
+# ALSH.ai
 <!-- ### AI-Native Productivity Tools -->
 
 ---
@@ -10,9 +10,9 @@
 **Software Development and Project Management**  
 **Chat and Image Design**
 
-### [View the Code](https://github.com/AlSH-ai/AlSH.ai)
+### [View the Code](https://github.com/ALSH-ai/ALSH.ai)
 
-https://github.com/AlSH-ai/AlSH.ai
+https://github.com/ALSH-ai/ALSH.ai
 
 ### [Try the App](https://alsh.ai)
 
@@ -38,7 +38,7 @@ https://alsh.ai
 
 ---
 
-[**AlSH.ai**](https://alsh.ai)  
+[**ALSH.ai**](https://alsh.ai)  
 
 https://alsh.ai
 
