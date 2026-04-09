@@ -36,7 +36,7 @@ https://alsh.ai
 - **AI search (included in chat)**
   - Fast search.
 - **Git hosting / repo workflows**
-  - Repo operations designed around standard git collaboration.
+  - Repo operations for standard git collaboration.
 
 ## Screenshots
 
