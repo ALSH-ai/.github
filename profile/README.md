@@ -64,7 +64,11 @@ https://alsh.ai
 
 ---
 
-AlSH.ai
+## Contact
+
+- hello@lochner.tech
+
+---
 
 _by [Lochner Tech](https://lochner.tech)_  
 https://github.com/lochner-technology  
